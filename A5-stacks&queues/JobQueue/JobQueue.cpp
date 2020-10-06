@@ -1,4 +1,3 @@
-b
 #include <iostream>
 #include <fstream>
 #include "JobQueue.hpp"
